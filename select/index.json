@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "META EDEN",
+  "base_artist": "OZworld",
+  "createdAt": "2026-03-08T06:42:13.175999Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "META EDEN (feat. PEANUTS KUN & PIEC3 POPPO)",
+      "artist": "OZworld",
+      "has_synced": false,
+      "path": "select/01_META_EDEN_(feat._PEANUTS_KUN_&_PIEC3_POPPO)_OZworld.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "META EDEN (feat. ピーナッツくん & PIEC3 POPPO)",
+      "artist": "OZworld",
+      "has_synced": false,
+      "path": "select/pl_01_META_EDEN_(feat._ピーナッツくん_&_PIEC3_POPPO)_OZworld.txt"
+    }
+  ]
+}
